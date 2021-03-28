@@ -12,7 +12,7 @@ npm run start
 ```
 npm install && npm run build && npm run start
 
-OBS: if you run into problems, before attempting to run again the command above, runn the following commands:
+OBS: if you run into problems, before attempting to run again the command above, run the following commands:
 npm update
 npm cache clean --force
 ```
